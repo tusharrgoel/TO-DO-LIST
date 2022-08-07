@@ -1,6 +1,3 @@
-# TrueFoundry - Frontend Intern - Shortlisting Project
-
-[Hosted Site](https://tf-task.netlify.com)
 
 I used the react-beautiful-dnd package to help with the drag and drop, and the localStorage to save the changes made up on the website. I also used styled components for the css part and material-icons for the icons built.
 
