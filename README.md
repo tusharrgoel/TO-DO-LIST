@@ -5,7 +5,7 @@ I used the react-beautiful-dnd package to help with the drag and drop, and the l
 
 ### Clone the github repo to local
 
-Run the following in command on the terminal: `git clone https://github.com/a-sambhab/tf-task.git`
+Run the following in command on the terminal: `git clone https://github.com/tusharrgoel/To-Do-List.git`
 
 ### Move on to the repository
 
